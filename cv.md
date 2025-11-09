@@ -1,5 +1,7 @@
 # CV
 
+![Photo](/photo.jpg)
+
 ## English
 
 ### Contacts
